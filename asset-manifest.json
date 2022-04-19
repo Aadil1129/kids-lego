@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.835ccfe6.css",
+    "main.js": "/static/js/main.231b51f1.js",
+    "static/js/787.adea1641.chunk.js": "/static/js/787.adea1641.chunk.js",
+    "static/media/ligocity.png": "/static/media/ligocity.317b9e176525e52f3f80.png",
+    "static/media/lego-store.png": "/static/media/lego-store.3280e7ee4300a7789a6f.png",
+    "static/media/toybox.jpeg": "/static/media/toybox.e068da297d316b9da847.jpeg",
+    "static/media/yoyo.jpeg": "/static/media/yoyo.4bcea2af044bb804b313.jpeg",
+    "static/media/barbie.jpeg": "/static/media/barbie.7366ecf2102baf9bff43.jpeg",
+    "static/media/circle.jpeg": "/static/media/circle.f35b31c312649a2bb1d5.jpeg",
+    "static/media/batman.jpeg": "/static/media/batman.f898f97c22e923c3becf.jpeg",
+    "index.html": "/index.html",
+    "main.835ccfe6.css.map": "/static/css/main.835ccfe6.css.map",
+    "main.231b51f1.js.map": "/static/js/main.231b51f1.js.map",
+    "787.adea1641.chunk.js.map": "/static/js/787.adea1641.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835ccfe6.css",
+    "static/js/main.231b51f1.js"
+  ]
+}
